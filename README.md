@@ -1,5 +1,5 @@
 <h1 align="center">Juan Morocho</h1>
-<h3 align="center">Ecuadorian Front-End Developer · Video game enthusiast </h3>
+<h3 align="center">Ecuador · Front-End Developer · Video game enthusiast </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jmorocho23/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
