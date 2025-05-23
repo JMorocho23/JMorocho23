@@ -12,7 +12,7 @@
 
 # Introduction 🚀
 
-Hello, my name is Juan Morocho and I am a Front-End Developer with over 5 years of experience in the industry 💻. I specialize in developing web and mobile applications using various javascript frameworks such as React and Ember. I am passionate about creating innovative online experiences that drive user engagement and increase traffic 🚀.
+Hello, my name is Juan Morocho and I am a Front-End Developer with over 7 years of experience in the industry 💻. I specialize in developing web and mobile applications using various javascript frameworks such as React, Next JS and Wordpress. I am passionate about creating innovative online experiences that drive user engagement and increase traffic 🚀.
 
 Growing up, I was always fascinated by computers and technology. But it was my love for video games that truly sparked my interest in the development industry. I've always been driven by the idea of creating interactive and engaging experiences for users. And that's exactly what I aim to do with my work as a developer.
 
